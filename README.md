@@ -102,6 +102,13 @@ The project maintainer will be responsible for:
 * Resolving conflicts and integration issues
 * Updating project documentation
 * Managing the final React + Tailwind implementation
+## Screenshot
+<img width="1906" height="904" alt="image" src="https://github.com/user-attachments/assets/647e19f1-c474-4dc1-894a-18bb0af0f2fd" />
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/3b03945c-a822-41d8-b9af-86215fa04c38" />
+<img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/06726f76-b7f6-431b-8314-084da1a24843" />
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/18c90373-1d3b-4a4c-b82e-84ee8bac237f" />
+<img width="1891" height="906" alt="image" src="https://github.com/user-attachments/assets/ee54b1e5-0084-41ee-ad30-85b9f3e600cd" />
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/d5255fef-e105-46e8-a498-273c3776b413" />
 
 ## Expected Result
 
