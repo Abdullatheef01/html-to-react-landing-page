@@ -122,6 +122,9 @@ Please do not start implementing a major feature without first discussing it in 
 
 Contributions, improvements, bug fixes, and suggestions are welcome.
 
+## Contributors
+- [Abdul Latheef](https://github.com/Abdullatheef01) - (Maintainer)
+- [Mohammad Faris](https://github.com/Faris4567-dot) – PR #13 (Issue #2)
 ## License
 
 This project is open source. Please check the repository license for usage and contribution terms.
