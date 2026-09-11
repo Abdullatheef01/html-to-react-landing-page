@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;800;900&family=Audiowide&family=Inter:wght@300;400;500&display=swap");
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0d0d0d;
+  --card: #141414;
+  --border: #262626;
+  --pink: 330 100% 58%;
+  --cyan: 180 100% 50%;
+  --gold: 45 100% 50%;
+  --purple: 272 100% 60%;
+  --fg: #f2f2f2;
+  --muted: #8a8a8a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--pink) / 0.4);
+  border-radius: 3px;
+}
+
+.np {
+  color: hsl(var(--pink));
+  text-shadow:
+    0 0 7px hsl(var(--pink) / 0.8),
+    0 0 20px hsl(var(--pink) / 0.4);
+}
+
+.nc {
+  color: hsl(var(--cyan));
+  text-shadow:
+    0 0 7px hsl(var(--cyan) / 0.8),
+    0 0 20px hsl(var(--cyan) / 0.4);
+}
+
+.ng {
+  color: hsl(var(--gold));
+  text-shadow:
+    0 0 7px hsl(var(--gold) / 0.8),
+    0 0 20px hsl(var(--gold) / 0.4);
+}
+
+.npu {
+  color: hsl(var(--purple));
+  text-shadow:
+    0 0 7px hsl(var(--purple) / 0.8),
+    0 0 20px hsl(var(--purple) / 0.4);
+}
+
+.bp {
+  border-color: hsl(var(--pink));
+  box-shadow: 0 0 8px hsl(var(--pink) / 0.4);
+}
+
+.bc {
+  border-color: hsl(var(--cyan));
+  box-shadow: 0 0 8px hsl(var(--cyan) / 0.4);
+}
+
+.bg2 {
+  border-color: hsl(var(--gold));
+  box-shadow: 0 0 8px hsl(var(--gold) / 0.4);
+}
+
+.bpu {
+  border-color: hsl(var(--purple));
+  box-shadow: 0 0 8px hsl(var(--purple) / 0.4);
+}
